@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
+using UnityEngine;
 
-public class InventoryItem
+public class InventoryItem : MonoBehaviour
 {
     public string name;
     public int quantity;
