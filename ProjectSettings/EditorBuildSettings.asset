@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Ehlexi/Scenes/After-Dinkys-Fall.unity
+    guid: ea6a7f9ebcd98324bb742a035ae638a8
+  - enabled: 1
+    path: Assets/Aron/Aron's scene.unity
+    guid: 878ddc792d6ac1243ad0dc83e121c180
   m_configObjects: {}
