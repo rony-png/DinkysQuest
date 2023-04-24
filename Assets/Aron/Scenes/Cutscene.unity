@@ -745,6 +745,7 @@ MonoBehaviour:
   animDistance: 7
   stopTime: 2.1
   animator: {fileID: 401798766}
+  lightbulb: {fileID: 1169417895}
 --- !u!4 &401798778 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5479029048300093055, guid: f4de798c9867657469c36bc85b02b47f, type: 3}
@@ -2820,5 +2821,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5479029048300093052, guid: f4de798c9867657469c36bc85b02b47f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f4de798c9867657469c36bc85b02b47f, type: 3}
