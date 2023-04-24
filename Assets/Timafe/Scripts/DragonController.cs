@@ -3,6 +3,7 @@ using UnityEngine.Animations;
 using UnityEngine.Sprites;
 using System.Collections;
 using System.Collections.Generic;
+
 public class DragonController : MonoBehaviour
 {
     public float speed = 5f;
@@ -13,18 +14,31 @@ public class DragonController : MonoBehaviour
     private bool isGrounded;
     public bool isWalking;
 
+    [System.Serializable]
+    public struct AnimationMaterialPair
+    {
+        public AnimationClip animationClip;
+        public Material material;
+    }
+
+    public AnimationMaterialPair[] animationMaterials;
+
     void Start()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
+        foreach (var pair in animationMaterials)
+        {
+            pair.animationClip.events = new AnimationEvent[0]; // clear events to avoid errors
+        }
     }
 
     void Update()
     {
         // Horizontal movement
         float moveInput = 0f;
-        
+
         if (Input.GetKey(KeyCode.A))
         {
             moveInput = -1f;
@@ -41,7 +55,7 @@ public class DragonController : MonoBehaviour
         {
             isWalking = false;
         }
-      
+
         rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
 
         // Jumping
@@ -55,9 +69,19 @@ public class DragonController : MonoBehaviour
         animator.SetBool("isGrounded", isGrounded);
 
         // Attacking
-        if (Input.GetKeyDown(KeyCode.Mouse0)) ;
+        if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             animator.SetTrigger("Attack");
+        }
+
+        // Change material based on current animation state
+        foreach (var pair in animationMaterials)
+        {
+            if (animator.GetCurrentAnimatorStateInfo(0).IsName(pair.animationClip.name))
+            {
+                sprite.material = pair.material;
+                break;
+            }
         }
     }
 
