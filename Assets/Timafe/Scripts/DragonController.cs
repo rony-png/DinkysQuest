@@ -69,7 +69,9 @@ public class DragonController : MonoBehaviour
         animator.SetBool("isGrounded", isGrounded);
 
         // Attacking
+
         if (Input.GetKeyDown(KeyCode.Mouse0))
+
         {
             animator.SetTrigger("Attack");
         }
