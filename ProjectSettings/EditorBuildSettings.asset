@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Aron/Scenes/Title.unity
+    guid: 65b9b51a1d3437a4eb00a62e754c1680
+  - enabled: 1
+    path: Assets/Aron/Scenes/Cutscene.unity
+    guid: 887f860ad65cc6345a5d502481aa03c7
+  - enabled: 1
+    path: Assets/Aron/Scenes/Hospital Room.unity
+    guid: c18374e37661d4640a884e4da101684b
+  - enabled: 1
+    path: Assets/Aron/Scenes/Hospital Hallway.unity
+    guid: 6b417c235c57eb54ab85ffd977ce9cf2
   m_configObjects: {}
