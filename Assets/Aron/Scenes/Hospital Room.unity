@@ -2718,5 +2718,13 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 8130082775390507135, guid: b607508cddf80544fb1ed81112a7c091, type: 3}
+      propertyPath: glideDuration
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130082775390507135, guid: b607508cddf80544fb1ed81112a7c091, type: 3}
+      propertyPath: glideStrength
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b607508cddf80544fb1ed81112a7c091, type: 3}
