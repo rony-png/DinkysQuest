@@ -15,8 +15,6 @@ public class OldMan2 : MonoBehaviour
     private float timeSinceStopped = 0f; // The time since the character stopped moving
     private bool hasPlayedThirdAnimation = false; // Flag to track if the third animation has been played
 
-    [SerializeField] private SpriteRenderer lightbulb;
-
     void Start()
     {
         rb = GetComponent<Rigidbody2D>(); // Get the Rigidbody2D component
@@ -46,15 +44,12 @@ public class OldMan2 : MonoBehaviour
 
             // Trigger the new animation
             animator.SetTrigger("NewAnimation");
-            //Lightbulb
-            lightbulb.enabled = true;
 
             // Stop the character's movement while the animation plays
             rb.velocity = Vector2.zero;
 
             // Start the timer to resume movement
             timeSinceStopped = stopTime;
-            
         }
 
         // Check if the new animation has finished playing
@@ -67,9 +62,7 @@ public class OldMan2 : MonoBehaviour
             if (!hasPlayedThirdAnimation)
             {
                 rb.velocity = new Vector2(moveSpeed, rb.velocity.y);
-                lightbulb.enabled = false;
             }
-            //lightbulb.enabled = false;
         }
 
         // Check if the character has reached the maximum distance and the third animation hasn't been played
