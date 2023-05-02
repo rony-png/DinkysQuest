@@ -1,0 +1,2986 @@
+fileFormatVersion: 2
+guid: 1056a06691628df488b88842938c3eb0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DinkySittingAnim_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f74a7f832740a4b8f31791a8f3c2d2
+      internalID: 527942594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161c5723e8c89f438c97fc8e6165ec7
+      internalID: 1921905108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0009d27586b64aa7c8744e98b295f
+      internalID: 261977108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fa6d0884647f44bcf81e7e3c04fb7
+      internalID: 1866318314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be05b542df8ca242b26d35cead06cc7
+      internalID: 1496572709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c16cdef4eb6614fab56329aab32baa
+      internalID: -1449904762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662af783df6f1ba4d8bdd7e251482bdf
+      internalID: 145304167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9aab52d01c34b439d34e78f85d6eb9
+      internalID: -407501140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae754e2a192e984bbffedd9db446a78
+      internalID: -1496504349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663040b718309c4286dba624507e66c
+      internalID: 523011770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_10
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604e819b825d56438f02b2ca5234aed
+      internalID: -143028879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_11
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39af27fa1039e4e917b47020333c64
+      internalID: -2107674096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1005
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db31d217b30ba40aa73c48b599a3ad
+      internalID: -1526696063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1005
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05772434da34b34c89f615e5ceed87a
+      internalID: 314264212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1005
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a985d2d785ff498b85f3c70f8785a
+      internalID: 1043800407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1005
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d846b7170ceb842a4bea307e42e107
+      internalID: 78678885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1005
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621d8a20bec6594a9eb710d0177fb8b
+      internalID: -863144849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aeaa55644ae5144902ca415ee3a2e5
+      internalID: 983129396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8575be9ebb38e42acbac71cfa5bdaa
+      internalID: -1912118303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaaba6b55cca8d4fbacc872af81e634
+      internalID: 833729539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_20
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2540462c8d1ae4eb4d3fc4e1f2ac9f
+      internalID: 1642045411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65424f330c1c9a64298aa4ae59d9ed02
+      internalID: -366134511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d203ab3c6adf642a73691c618d1c96
+      internalID: -1935045151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_23
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1005
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b77e49c1a4a046ba2c47c236d7769
+      internalID: 1964940432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b1940d4ab6db48824a4dbc3e46aec
+      internalID: 1249509771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14d0cbf4b6f90b4a92ed07ea9acb9c9
+      internalID: 906253642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2965d6adff61444adf4afa0785ad2e
+      internalID: -1257070704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed69a9b6494aae4a98865f1b72a16c6
+      internalID: -924328904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cacacbe8d713b4bba9b2218714c9ac
+      internalID: -503018443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_29
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e976a9faa84f5245a1294bd13a38ac3
+      internalID: 1485577226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04770f45a80b3634393d85a9d684787c
+      internalID: -1553086352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_31
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b435d21f7d1d468c2c63686a71a04
+      internalID: 578670094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44d572a28ea9a42a53766e4e2e32cb
+      internalID: 717178418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_33
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e8085aaf854b4bb299f9126bdc114
+      internalID: 906849100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_34
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed4bce8fc00184aa9d9cb6c4f56926
+      internalID: -470861174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_35
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 905
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f8f5c590b912a47962197dc22b508f
+      internalID: 648048738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b57b6a3a64c74d8ee8143c53376a3
+      internalID: -1756812135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6feb0338115cec41b4ceb3af8080135
+      internalID: -667461517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480fbeb7d2af7594aae96ecd5ca67747
+      internalID: 1063139686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d69518f21cc1e48aa3b0bb74e45db8
+      internalID: 1913581362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4254760b112958044bf2d29de82a7c79
+      internalID: 868662463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_41
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb9fae6f7202ab47815a113db6b4e30
+      internalID: -772877712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_42
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ffe5032dc8cf04ab96e2b05ed592e8
+      internalID: 1258029676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f2fc41d31953b46b6c734ac2ca8c52
+      internalID: 844523591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_44
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a63debcfc9efa4f9c640282edebb0a
+      internalID: 1188760777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_45
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c9a2c4fdb9b04bad8b244ebabdc47
+      internalID: -1235846941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_46
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c185847b2259084fb29b30ebf3251ee
+      internalID: -1089329032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_47
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 805
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44c5f5a9fd0134d9c9a6cc207f4051
+      internalID: -1593913255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c7798ef5346384ba71761638d0613f
+      internalID: -1951072493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b014febb6a5da84b890b76c0ec44e0d
+      internalID: 1798041970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22659678ddbf1194e9f819b06d87dcfa
+      internalID: -1866399561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5d58a8889a214b8c70750d369f6e1
+      internalID: 1919658908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_52
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336e9a5812504c45bee0ffe7517f43e
+      internalID: -824839199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d597197532d0c428feaae889ec5a33
+      internalID: 561228683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b492575f559d04ca44d95b01c31b17
+      internalID: 2047521756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_55
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f138c24765c90646aded968e6ec72d2
+      internalID: -638533584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_56
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027bcb71635c1e049a141d0d08fb1ae2
+      internalID: -395227445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_57
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3feafc48bdc3044787b4b1b0d5e9adf
+      internalID: 303007441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_58
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d13f0430f5a9f46b8229041078ad8e
+      internalID: -607003124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_59
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 705
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed56caa96757f0844b6c4dfd53c8acfa
+      internalID: -1496661055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf0eb14655f574287a09f222af684a
+      internalID: 1492812837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624d9eab68fc6f48b3d4432f92bcb74
+      internalID: 1619723745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_62
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7610d84e4ecc4bb42b01da4688390
+      internalID: -769584685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8c89c82ee580d4086a5e8901cbfe74
+      internalID: -471280434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904cf8cc09c5b7740ac889194f7430d0
+      internalID: -102153863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_65
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75c5c51973a2d4bb6da10a59010445
+      internalID: -1869311679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_66
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9f9543bcc5344fa562db70d17917a
+      internalID: -702561253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_67
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59440b7d89b54b24b916c405b5efd039
+      internalID: -1264460723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_68
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bdca940b1b49b4fa7135af96e21307
+      internalID: -455569267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_69
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d4e9142424db4381a53c8aedc6372
+      internalID: -1313162609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_70
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cabf28fc89a75b4795212111c714f16
+      internalID: -1053617242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_71
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 605
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a391550118974e93bbb74669e8987
+      internalID: -1003167646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48456f5d8d7f84ea1670687515b209
+      internalID: 332583930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e2e3e157c250418f86267560f414e
+      internalID: -166580635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b463debfa31ef4ab96173408b8c7c9
+      internalID: -72941385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490897bf50f9f34fb5f0fd340b07075
+      internalID: 1827118624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_76
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9e6a62906581b4299b7f1621f84667
+      internalID: 502934010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_77
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a85edf857b8e428cccce3deebd421
+      internalID: -1898244103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_78
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159806bdc38a44149ba1f545eae4569e
+      internalID: 880980650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_79
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e68fd2e683ab74b83c345d4d2ebb8e
+      internalID: 652581083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_80
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 505
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3527862dbd1b75848ac89567d1d68b4f
+      internalID: 923256793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_81
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 505
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89769760bf8c00a44b5a76378912dfc7
+      internalID: 1209653551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_82
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 505
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0e11e872e93542b5fdbfd3effe60b
+      internalID: -1645005949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_83
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 505
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d878c5b741d5324caaecac87be43813
+      internalID: 1901561277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542875f62e115942a5c34b4153d596f
+      internalID: -1867531830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f436b0d58920b74db5f51d196ebb108
+      internalID: 1975400221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_86
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92add96f75f73de42ae550d62b378ee2
+      internalID: 1434359210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_87
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a938dec8b5b70f44ab66cbafd3a99f4
+      internalID: -1135919367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c4ac0b1b84f1b4fbfa86fa5fde8f8f
+      internalID: -1785101604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_89
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69673de4b65ef4dbfbc118613fb541
+      internalID: 255908293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_90
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bc0a9471119bc42b87e78944965880
+      internalID: 420873239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_91
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e6206a426271449ba46ad88b24d99
+      internalID: -259944880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_92
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affcdc32489ecdf498fd74fcf5557fa4
+      internalID: -20889836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_93
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2912d8f8a7845534a8683ebd97af8153
+      internalID: -959265045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_94
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feeaf1e94b04e142ba062088c868e44
+      internalID: 1714545450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_95
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 405
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb03e029f5f3b54d90bc48623cc9348
+      internalID: 1207868264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd42c6b6d06f8448204164456a5547
+      internalID: 1224264048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_97
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154379288c55fb749bf4d5dd39463567
+      internalID: -845165093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_98
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda33d5d25568cf4b8346433b6e53ae0
+      internalID: 2111723173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b184d73c98374081b616d8f7e6326
+      internalID: 2101687133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_100
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750e4db1051b2d46805de447be0898a
+      internalID: 997288201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_101
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555a12d5248bfa4088cf737b4952934
+      internalID: -344371155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_102
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1593a4793b34d45b2f505b1a244db8
+      internalID: -818725715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_103
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd708d4e073b0c49a83a7b53521a479
+      internalID: -1446529407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_104
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e252f27f56e5040b09d65c92ce54dc
+      internalID: 976276470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_105
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b0b7bf23701c043a0b4ccfa7bc03d9
+      internalID: -1272742175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_106
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76506a2036ca0d6439fb70b018e82394
+      internalID: 871348334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_107
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 305
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217154915f19cfa41ae49685320ac81d
+      internalID: 1982743849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_108
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e579bbc392f182e47b37e44eb8b810a4
+      internalID: -1707971953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_109
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0009349002aca45bbec26ec6249ecb
+      internalID: 2023632023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_110
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aebf24e6781e1a40b9cc315bac67eaf
+      internalID: 1214197693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_111
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae563551e3b314b82cd8fe01121a83
+      internalID: 677429009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_112
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae12af6dc2e5248ba43cce813b382d
+      internalID: -168839476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_113
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5070b3cecd9eab4e887cd9ab824a4b5
+      internalID: -1158487185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_114
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959bbe686d43a847a7916e8272eb730
+      internalID: 2055182784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_115
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899bcdd7085e57d45877b005feb31f4e
+      internalID: -784663594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_116
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bf117cd679b142bf5c063733a07e0
+      internalID: -48069596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_117
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6c2a00ce23dd47a4ae8f521a1dff8
+      internalID: 1418461185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_118
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6833d01dcd0f847a9f6487f636bb81
+      internalID: -1180931404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_119
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 205
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81028484691344dad410d3da6859b7
+      internalID: 311208958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_120
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250c4824f2617846af30df27ee667fb
+      internalID: -1195117784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_121
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e5fcda0b68334a960439093147be3
+      internalID: 18529985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_122
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84671ff0fbe2e2944b79dbea9d4ab835
+      internalID: 1401228746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_123
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c176ae1b4b28de4aa0c4514d8f43d3d
+      internalID: -525623783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_124
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65668e8676bf2894a80bf96ff8926678
+      internalID: -1458091220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_125
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b0f0b5052eeb47aa3d68a9616b251
+      internalID: 583278338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_126
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b102798d80ab843a0d539ab81f7280
+      internalID: -1521018075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_127
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c47de74a1a8e4a846c5f384d9d499
+      internalID: 1434480735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinkySittingAnim_128
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 105
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa22d280de61634d91338c630fd092c
+      internalID: -411721335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: e8505e5731e29df47a4f41f65d8b5d3f, type: 3}
+      name: NormalMap
+    nameFileIdTable:
+      DinkySittingAnim_40: 868662463
+      DinkySittingAnim_33: 906849100
+      DinkySittingAnim_88: -1785101604
+      DinkySittingAnim_53: 561228683
+      DinkySittingAnim_121: 18529985
+      DinkySittingAnim_73: -166580635
+      DinkySittingAnim_56: -395227445
+      DinkySittingAnim_25: 906253642
+      DinkySittingAnim_10: -143028879
+      DinkySittingAnim_105: -1272742175
+      DinkySittingAnim_0: 527942594
+      DinkySittingAnim_22: -1935045151
+      DinkySittingAnim_102: -818725715
+      DinkySittingAnim_83: 1901561277
+      DinkySittingAnim_3: 1866318314
+      DinkySittingAnim_68: -455569267
+      DinkySittingAnim_101: -344371155
+      DinkySittingAnim_74: -72941385
+      DinkySittingAnim_91: -259944880
+      DinkySittingAnim_17: 983129396
+      DinkySittingAnim_29: 1485577226
+      DinkySittingAnim_93: -959265045
+      DinkySittingAnim_104: 976276470
+      DinkySittingAnim_50: -1866399561
+      DinkySittingAnim_122: 1401228746
+      DinkySittingAnim_114: 2055182784
+      DinkySittingAnim_87: -1135919367
+      DinkySittingAnim_65: -1869311679
+      DinkySittingAnim_45: -1235846941
+      DinkySittingAnim_2: 261977108
+      DinkySittingAnim_39: 1913581362
+      DinkySittingAnim_113: -1158487185
+      DinkySittingAnim_23: 1964940432
+      DinkySittingAnim_54: 2047521756
+      DinkySittingAnim_84: -1867531830
+      DinkySittingAnim_35: 648048738
+      DinkySittingAnim_99: 2101687133
+      DinkySittingAnim_44: 1188760777
+      DinkySittingAnim_98: 2111723173
+      DinkySittingAnim_63: -471280434
+      DinkySittingAnim_103: -1446529407
+      DinkySittingAnim_55: -638533584
+      DinkySittingAnim_110: 1214197693
+      DinkySittingAnim_117: 1418461185
+      DinkySittingAnim_116: -48069596
+      DinkySittingAnim_7: -407501140
+      DinkySittingAnim_90: 420873239
+      DinkySittingAnim_62: -769584685
+      DinkySittingAnim_28: -503018443
+      DinkySittingAnim_123: -525623783
+      DinkySittingAnim_79: 652581083
+      DinkySittingAnim_13: 314264212
+      DinkySittingAnim_20: 1642045411
+      DinkySittingAnim_9: 523011770
+      DinkySittingAnim_97: -845165093
+      DinkySittingAnim_26: -1257070704
+      DinkySittingAnim_24: 1249509771
+      DinkySittingAnim_16: -863144849
+      DinkySittingAnim_8: -1496504349
+      DinkySittingAnim_128: -411721335
+      DinkySittingAnim_18: -1912118303
+      DinkySittingAnim_64: -102153863
+      DinkySittingAnim_126: -1521018075
+      DinkySittingAnim_106: 871348334
+      DinkySittingAnim_120: -1195117784
+      DinkySittingAnim_125: 583278338
+      DinkySittingAnim_72: 332583930
+      DinkySittingAnim_34: -470861174
+      DinkySittingAnim_77: -1898244103
+      DinkySittingAnim_78: 880980650
+      DinkySittingAnim_36: -1756812135
+      DinkySittingAnim_38: 1063139686
+      DinkySittingAnim_49: 1798041970
+      DinkySittingAnim_127: 1434480735
+      DinkySittingAnim_85: 1975400221
+      DinkySittingAnim_48: -1951072493
+      DinkySittingAnim_59: -1496661055
+      DinkySittingAnim_21: -366134511
+      DinkySittingAnim_12: -1526696063
+      DinkySittingAnim_96: 1224264048
+      DinkySittingAnim_46: -1089329032
+      DinkySittingAnim_115: -784663594
+      DinkySittingAnim_58: -607003124
+      DinkySittingAnim_11: -2107674096
+      DinkySittingAnim_89: 255908293
+      DinkySittingAnim_69: -1313162609
+      DinkySittingAnim_112: -168839476
+      DinkySittingAnim_94: 1714545450
+      DinkySittingAnim_107: 1982743849
+      DinkySittingAnim_37: -667461517
+      DinkySittingAnim_66: -702561253
+      DinkySittingAnim_60: 1492812837
+      DinkySittingAnim_76: 502934010
+      DinkySittingAnim_80: 923256793
+      DinkySittingAnim_119: 311208958
+      DinkySittingAnim_81: 1209653551
+      DinkySittingAnim_70: -1053617242
+      DinkySittingAnim_108: -1707971953
+      DinkySittingAnim_31: 578670094
+      DinkySittingAnim_92: -20889836
+      DinkySittingAnim_75: 1827118624
+      DinkySittingAnim_32: 717178418
+      DinkySittingAnim_82: -1645005949
+      DinkySittingAnim_47: -1593913255
+      DinkySittingAnim_111: 677429009
+      DinkySittingAnim_86: 1434359210
+      DinkySittingAnim_27: -924328904
+      DinkySittingAnim_6: 145304167
+      DinkySittingAnim_5: -1449904762
+      DinkySittingAnim_14: 1043800407
+      DinkySittingAnim_109: 2023632023
+      DinkySittingAnim_100: 997288201
+      DinkySittingAnim_67: -1264460723
+      DinkySittingAnim_51: 1919658908
+      DinkySittingAnim_52: -824839199
+      DinkySittingAnim_57: 303007441
+      DinkySittingAnim_15: 78678885
+      DinkySittingAnim_19: 833729539
+      DinkySittingAnim_1: 1921905108
+      DinkySittingAnim_43: 844523591
+      DinkySittingAnim_118: -1180931404
+      DinkySittingAnim_41: -772877712
+      DinkySittingAnim_124: -1458091220
+      DinkySittingAnim_61: 1619723745
+      DinkySittingAnim_42: 1258029676
+      DinkySittingAnim_4: 1496572709
+      DinkySittingAnim_30: -1553086352
+      DinkySittingAnim_95: 1207868264
+      DinkySittingAnim_71: -1003167646
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
