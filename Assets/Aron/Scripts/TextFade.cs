@@ -15,18 +15,18 @@ public class TextFade : MonoBehaviour
     }
 
     // Update is called once per frame
-  //  void Update()
-  //  {
+    //  void Update()
+    //  {
     //    if(Input.GetKeyDown(KeyCode.Space))
-   //     {
-   //         StartCoroutine(Fade());
+    //     {
+    //         StartCoroutine(Fade());
     //    }
-        
-  //  }
+
+    //  }
 
     IEnumerator Fade()
     {
-        while(titleText.alpha > 0)
+        while (titleText.alpha > 0)
         {
             yield return new WaitForSeconds(fadeRate);
             titleText.alpha -= .01f;
