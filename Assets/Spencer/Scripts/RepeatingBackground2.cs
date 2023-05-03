@@ -16,7 +16,7 @@ public class RepeatingBackground2 : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector2.left * Time.deltaTime * 5);
-        if (transform.position.x < -sr.bounds.size.x);
+        if (transform.position.x < -sr.bounds.size.x/2);
         {
             transform.position = new Vector3(sr.bounds.size.x, transform.position.y, transform.position.z);
         }
