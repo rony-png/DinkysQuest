@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3942434003991338158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7657050829905416375}
+  m_Layer: 0
+  m_Name: attackPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7657050829905416375
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3942434003991338158}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.01, y: -0.052, z: -2.551808}
+  m_LocalScale: {x: 0.6351223, y: 0.6351223, z: 0.6351223}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7616974037161314777}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7616974037161314755
 GameObject:
   m_ObjectHideFlags: 0
@@ -15,6 +46,7 @@ GameObject:
   - component: {fileID: 7616974037161314757}
   - component: {fileID: 7616974037161314754}
   - component: {fileID: 8714175108080987092}
+  - component: {fileID: 3347136925091891103}
   m_Layer: 9
   m_Name: Dinky V4
   m_TagString: Player
@@ -35,6 +67,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7616974037260847919}
+  - {fileID: 7657050829905416375}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -122,6 +155,7 @@ MonoBehaviour:
   animator: {fileID: 7616974037161314758}
   sprite: {fileID: 7616974037161314754}
   isWalking: 0
+  glideDuration: 2
   animationMaterials: []
 --- !u!212 &7616974037161314754
 SpriteRenderer:
@@ -188,6 +222,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 0}
+--- !u!114 &3347136925091891103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7616974037161314755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 292445db3e6f47f40b1f8ce9ff0e9d07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartTimeBtwAttack: 0.5
+  damage: 1
+  attackPos: {fileID: 7657050829905416375}
+  attackRange: 1.19
+  whatIsEnemies:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &7616974037260847914
 GameObject:
   m_ObjectHideFlags: 0
