@@ -7,8 +7,10 @@ TagManager:
   - Ground
   - OneWayPlatform
   - Enemy
+
   - Obstacle
   - TriggerCollider
+
   layers:
   - Default
   - TransparentFX
