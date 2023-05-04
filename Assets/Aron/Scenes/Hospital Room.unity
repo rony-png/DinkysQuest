@@ -1116,7 +1116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7327ef8645598504bbb4be470cd29636, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Hospital Hallway
+  sceneToLoad: Hospital Hallway 1
 --- !u!61 &1238448762
 BoxCollider2D:
   m_ObjectHideFlags: 0
