@@ -8,6 +8,7 @@ TagManager:
   - OneWayPlatform
   - Enemy
   - Obstacle
+  - TriggerCollider
   layers:
   - Default
   - TransparentFX
