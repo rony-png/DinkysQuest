@@ -15,9 +15,12 @@ EditorBuildSettings:
     path: Assets/Aron/Scenes/Hospital Room.unity
     guid: c18374e37661d4640a884e4da101684b
   - enabled: 1
-    path: Assets/Aron/Scenes/Hospital Hallway.unity
-    guid: 6b417c235c57eb54ab85ffd977ce9cf2
+    path: Assets/Aron/Scenes/Hospital Hallway 1.unity
+    guid: 6def5ae45f8f11d4b8a6ff7b3c6cb646
   - enabled: 1
     path: Assets/Aron/Scenes/Forest.unity
     guid: 548f20064d7f39847944cd0c71b001a3
+  - enabled: 1
+    path: Assets/Aron/Scenes/Extras.unity
+    guid: a7881a96917b46b438e80d3408e223e6
   m_configObjects: {}
