@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CameraController : MonoBehaviour
+public class CameraController1 : MonoBehaviour
 {
     public float zoomSpeed = 0.5f; // The speed at which the camera zooms out
     public float targetSize = 10f; // The size at which the camera will stop zooming out
